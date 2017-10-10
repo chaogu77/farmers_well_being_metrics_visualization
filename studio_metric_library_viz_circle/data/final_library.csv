@@ -1,0 +1,102 @@
+paper,dimension,hex1,metric,hex2,marker,new,old
+AML,farmer well being,467F71,personal satisfaction,6B998D,General feeling on standard of living (data from survey),1,
+,farmer well being,467F71,personal satisfaction,6B998D,Depression level (data from survey),1,
+,farmer well being,467F71,personal satisfaction,6B998D,Satisfaction with occupation (data from survey),1,
+,farmer well being,467F71,personal satisfaction,6B998D,"Satisfaction with external support (market service, agri-business...) (data from survey)",0,percentage of farmers who are satisfied with agri-business and market services
+,farmer well being,467F71,social engagement,90B2AA,Percentage of farmers who use social media,1,
+,farmer well being,467F71,social engagement,90B2AA,Change (percentage) in land access for women and minority groups (percentage of land owned of under owner-like possession by different groups including women and minority groups),0,percentage of land owned or under owner-like possession by different groups including women and minority groups
+,farmer well being,467F71,social engagement,90B2AA,Age level of community,0,age level of community
+,farmer well being,467F71,social engagement,90B2AA,Percentage of farmers who are members of community/producer organizations (total number of farmers; number of farmers who are members of community/producer organization),0,percentage of members of community/ producer associations reporting increased production or profits as a result of membership
+,farmer well being,467F71,social engagement,90B2AA,Number of village meetings and ratio of participation,1,
+,farmer well being,467F71,social engagement,90B2AA,Opportunity of knowledge or resource sharing,0,"Access to the means of production, including equipment, capital and knowledge"
+,farmer well being,467F71,family relationship,B5CCC6,Percentage of married farmers,1,
+,farmer well being,467F71,family relationship,B5CCC6,"Number of social dispute (1-10, severity of dispute)",1,
+,farmer well being,467F71,family relationship,B5CCC6,Average amount of hours spent at home,1,
+,farmer well being,467F71,family relationship,B5CCC6,Frequency of having meals at home,1,
+,farmer well being,467F71,household economy,BEEADF,"Percentage change in proportion of rural population below US$1 (purchasing power parity) per day or below national poverty line (income or consumption data (whenever possible, consumption is preferred to income for measuring poverty)",0,percentage change in proportion of rural population below US$1 (purchasing power parity) per day or below national poverty line (income or consumption data)
+,farmer well being,467F71,household economy,BEEADF,Annual growth rate of household income in rural areas from agricultural activity (percentage) (household income by source and groups of activities),0,annual growth rate (percentage) of household income in rural areas from non-agricultural activity (household income by source and groups of activities)
+,farmer well being,467F71,household economy,BEEADF,Amount of farmers have multiple income source,0,number of people with new on-farm / off-farm income streams
+,farmer well being,467F71,household economy,BEEADF,"Household equipment (data from survey: do you have television, fixed line telephone, personal computer,vehicles...)",1,
+,farmer well being,467F71,household economy,BEEADF,Average size of living house,1,
+,farmer well being,467F71,household economy,BEEADF,Average size of land holding,0,size of land holding
+,farmer well being,467F71,health,9DE0D0,Prevalence (percentage) of underweight children under five years of age in rural areas (anthropometric data),0,prevalence(percentage) of underweight children under five years of age in rural areas (anthropometric data)
+,farmer well being,467F71,health,9DE0D0,Proportion of under-nourished population (data from household budget survey),0,proportion of under-nourished population (household budget surveys)
+,farmer well being,467F71,health,9DE0D0,Average expenditure on alcohol,1,
+,farmer well being,467F71,health,9DE0D0,Amount of farmers who suffer agriculture related illness and disease,1,
+,farmer well being,467F71,health,9DE0D0,Drinking water consumption,0,Drinking water: use of clean water sources (percent of households)
+,farmer well being,467F71,health,9DE0D0,Life expectancy at birth (years),0,life expectancy at birth
+,farmer well being,467F71,education,7AA99E,Public awareness of organic farming,0,public awareness of organic farming
+,farmer well being,467F71,education,7AA99E,"Literacy rate, mean years of schooling",0,Literacy level
+,farmer well being,467F71,education,7AA99E,Expected years of schooling,0,expected years of schooling
+,market,BEDB39,market availability,CBE261,"Percentage increase in number of local enterprises in rural area (series of total number of local enterprises, by region)",0,"percentage increase in number of local enterprises in rural area (series of total number of local enterprises, by region)"
+,market,BEDB39,market availability,CBE261,Point of connection to the market,1,
+,market,BEDB39,market availability,CBE261,Percentage change in number of agricultural inputs outlets(number of retail dealers for each type of inputs),0,number of retail dealers for each type of inputs
+,market,BEDB39,food supply,E0EEA0,"Nutrient adequacy (percent of requirements for specific nutrients), intake or density",0,"Nutrient adequacy (percent of requirements for specific nutrients), intake or density"
+,market,BEDB39,food supply,E0EEA0,Diversity of foods available in local markets (number of distinct foods or good groups),0,Diversity of the food supply (index of functional attributes or food sources)
+,market,BEDB39,food price,D5DABE,Volatility of food prices (standard deviations of prices over time),0,Volatility of food prices (standard deviations of prices over time)
+,market,BEDB39,food price,D5DABE,Food price indexes (local food prices relative to other prices),0,food price indexes (local food prices relative to other prices)
+,finance,FFE87A,finance service,FFED95,Percentage of the rural population eligible to obtain a business loan,0,percentage of the rural population eligible to obtain a business loan
+,finance,FFE87A,finance service,FFED95,Percentage of bank branches that are located in rural areas (spatial distribution of bank branches),0,percentage of bank branches that are located in rural areas (spatial distribution of bank branches)
+,finance,FFE87A,finance service,FFED95,Percentage of rural population using non-bank financial services(total number of rural households; number of which requested/accessed non-banking financial services),0,percentage of rural population using non-bank financial services (total number of rural households; number of which requested/accessed non-banking financial services)
+,finance,FFE87A,finance service,FFED95,Recovery rate of rural credit (volume of loans by type of credit and rate of recovery in a specific period),0,recovery rate of rural credit (volume of loans by type of credit and rate of recovery in a specific period)
+,finance,FFE87A,investment,FFF4BF,"Public spending on agriculture as a percentage of GDP from the agriculture sector
+government budget allocations, disbursements and spending on items related to agriculture; national agriculture value-added data",0,"public spending on agriculture as a percentage of GDP from the agriculture sector (government budget allocation, disbursements and spending on items related to agriculture)"
+,finance,FFE87A,investment,FFF4BF,Price premium for agricultural products,0,Price premium for agricultural products
+,finance,FFE87A,investment,FFF4BF,"Public spending on agricultural input subsidies as a percentage of total public spending on agriculture
+government budget allocations, disbursements and spending on items related to subsidies on agricultural inputs as well as total spending on agriculture",0,"public spending on agricultural input subsidies as a percentage of total public spending on agriculture (government budget allocation, disbursements and spending on items related to subsidies on agricultural input as well as total spending on agriculture)"
+,finance,FFE87A,investment,FFF4BF,Subsidies and financial assistance to promote sustainable behavior,0,Subsidies and financial assistance to promote sustainable behavior
+,agricultural practice,FF893B,farm management,FFA162,"Collaboration with multiple suppliers, outlets, and fellow farmers; crops planted in polycultures that encourage symbiosis and mutualism",0,"Collaboration with multiple suppliers, outlets, and fellow farmers; crops planted in polycultures that encourage symbiosis and mutualism"
+,agricultural practice,FF893B,farm management,FFA162,Mechanical level of the agricultural practice,1,
+,agricultural practice,FF893B,farm management,FFA162,Per capita food grain production,0,per capita food grain production
+,agricultural practice,FF893B,farm management,FFA162,Harvested crop yields per hectare,0,Harvested crop yields per hectare
+,agricultural practice,FF893B,farm management,FFA162,Adaptability to climate change,0,Adaptability to climate change
+,agricultural practice,FF893B,agricultural input,FFC7A1,Ecologically self-regulated to preserve and improve the natural diversity and improve the natural diversity and improve the habitat function of agricultural landscapes,0,Ecologically self-regulated to preserve and improve the natural diversity and improve the natural diversity and improve the habitat function of agricultural landscapes
+,agricultural practice,FF893B,agricultural input,FFC7A1,Heterogeneity and multi-functionality of the agricultural systems,0,Heterogeneity and multi-functionality of the agricultural systems
+,agricultural practice,FF893B,agricultural input,FFC7A1,Quality of groundwater for irrigation,0,quality of groundwater for irrigation
+,agricultural practice,FF893B,agricultural input,FFC7A1,Land tenure / Share (percentage) of land over which there are disputes (total area under dispute on a precise reference date; total land area at that date),0,share (percentage) of land over which there are disputes (total area under dispute on a precise reference date; total land area at that date)
+,agricultural practice,FF893B,agricultural input,FFC7A1,Percentage of land area for which there is a legally recognized form of land tenure (total land area and area over which holders have a well-defined right to access and use),0,percentage of agricultural households that have legally recognized rights to land (information on land tenure)
+,agricultural practice,FF893B,agricultural input,FFC7A1,Soil erosion,0,Share of agricultural land affected by soil erosion (percent)
+,agricultural practice,FF893B,agricultural input,FFC7A1,Crop rotation / diversity of crop,0,crop rotation
+,agricultural practice,FF893B,agricultural input,FFC7A1,Irrigation and water management,0,amount of irrigation water used per unit of cropped land
+,agricultural practice,FF893B,agricultural input,FFC7A1,Expenditure on agricultural input,0,cost of production
+,agricultural practice,FF893B,agricultural input,FFC7A1,"Usage of pesticides, herbicides and fungicides",0,"usage of pesticides, herbicides and fungicides"
+,agricultural practice,FF893B,agricultural input,FFC7A1,Fertilizer applied per unit of arable land (tons of nutrients per hectare of arable land),0,Fertilizer applied per unit of arable land (tons of nutrients per hectare of arable land)
+,agricultural practice,FF893B,agricultural input,FFC7A1,Food waste out of farm,1,
+,agricultural practice,FF893B,agricultural input,FFC7A1,Percent of crop losses during harvest,1,
+,agricultural practice,FF893B,agricultural input,FFC7A1,Percent of crop losses during storage,0,Percent of crop losses during storage
+,agricultural practice,FF893B,labor,FFD0B1,Percentage of rural labor force employed in agriculture,0,"percentage of rural labor force employed in agriculture (total number of days/persons (rural household members) worked in agriculture, by type of work (paid/unpaid; permanent/occasional) during a specified period)"
+,agricultural practice,FF893B,labor,FFD0B1,"Percentage of rural labor force employed in non-farm activities (activity status of rural household members, time worked in each activity)",0,"percentage of rural labor force employed in non-farm activities (activity status of rural household members, time worked in each activity)"
+,agricultural practice,FF893B,labor,FFD0B1,"Percentage of the labor force underemployed  or unemployed (economically active population, employment and unemployment data on hours/days of work)",0,"percentage of labor force underemployed or unemployed (economically active population, employment and unemployment data on hours/days of work)"
+,agricultural practice,FF893B,labor,FFD0B1,Minimum perceived age to work full-time on the farm,1,
+,agricultural practice,FF893B,labor,FFD0B1,Average amount of family members working on farm,1,
+,agricultural practice,FF893B,labor,FFD0B1,Amount of farmers that migrated to urban areas/switched profession,1,
+,agricultural practice,FF893B,infrastructure,E0CFC3,Amount of shared utilities/storehouses in the community,1,
+,agricultural practice,FF893B,infrastructure,E0CFC3,services of highways & streets,0,services of highways & streets
+,agricultural practice,FF893B,infrastructure,E0CFC3,Access and Internet use (Percentage of individuals using the Internet),0,Access and Internet use (Percentage of individuals using the Internet)
+,agricultural practice,FF893B,infrastructure,E0CFC3,Diversity of media content (descriptive) (Ratio of annual broadcasting time of domestic television fiction programmes out of total annual broadcasting time of television fiction programmes on public free-to-air national TV channels),0,Diversity of media content (descriptive) (total number of broadcasting hours dedicated to domestic fiction programmes on national public TV channels)
+,agricultural practice,FF893B,infrastructure,E0CFC3,Number of borewells/tubewells; Money spent on borewells; Functional wells/total,1,
+,agricultural practice,FF893B,infrastructure,E0CFC3,Change (percentage) in unit cost of transportation of agricultural products,0,change(percentage) in unit cost of transportation of agricultural products (cost and volume of agricultural products transported by mode of transport and region)
+,environment,E52738,pollution,EA5260,Cost of water pollution,0,cost of water pollution
+,environment,E52738,pollution,EA5260,Usage of pestcide in a hazard level,0,"amount of pesticide consumption, by hazard level"
+,environment,E52738,pollution,EA5260,Chemical content in fertilizer,0,usage of chemical fertilizer
+,environment,E52738,resource usage,F297A0,Cost of non-renewable energy resource depletion,0,cost of non-renewable energy resource depletion
+,environment,E52738,resource usage,F297A0,Rainwater harvesting methods,1,
+,environment,E52738,resource usage,F297A0,Fallow system,1,
+,environment,E52738,climate,FAD5D9,Catastrophic weather / weather trends /drought frequency,0,catastrophic weather / weather trends
+,science and technology,6B0C22,research,893D4E,Public investment in agricultural research as a percentage of GDP from the agriculture sector,0,"public investment in agricultural research as a percentage of GDP from the agriculture sector (budget allocations to agriculture research institutions, GDP for agriculture)"
+,science and technology,6B0C22,information dissemination,B88B95,"Percentage change in yields resulting from improved practices, for major crops of the country",0,"percentage change in yields resulting from improved practices, for major crops of the country (crop yield data for major crops)"
+,science and technology,6B0C22,information dissemination,B88B95,Change in farmer income as a result of new technologies (by gender),0,"yield before and after introduction of new technology, price of outputs, distribution of agricultural land, area dedicated to new technology"
+,science and technology,6B0C22,information dissemination,B88B95,Frequency of agriculture related workshops or events,1,
+,science and technology,6B0C22,information dissemination,B88B95,Access to government provided weather/satellite data,0,number of people interacting with information sharing mechanisms
+,science and technology,6B0C22,information dissemination,B88B95,Percentage of farmers having knowledge of a specific technology being disseminated by extension system,0,percentage of farmers having knowledge of a specific technology being disseminated by extension system
+,science and technology,6B0C22,information dissemination,B88B95,Percentage of farmers trying the specific technology advice from extension systems on their farms,0,percentage of farmers trying the specific technology advice from extension systems on their farms
+,science and technology,6B0C22,information dissemination,B88B95,"Indicators of access, use and satisfaction with  respect to services related to sustainable crop production practices, technologies and inputs",0,percentage of farmers who applied /purchased the recommended package of inputs last season
+,science and technology,6B0C22,information dissemination,B88B95,"Percentage of farmers who were satisfied with the specific technological recommendations of the extension system and judged it beneficial, with or without adaptation",0,percentage of farmers having knowledge of a specific technology being disseminated by extension system
+,culture and religion,2E0927,culture,583A52,Frequency of agriculture related festival celebration,1,
+,culture and religion,2E0927,culture,583A52,Amount of crafts specific to certain crops,1,
+,culture and religion,2E0927,culture,583A52,Amount of agriculture practice inherited from the ancestors,1,
+,culture and religion,2E0927,culture,583A52,Average amount of household expenditure on cultural goods and services,0,Calculation of household final consumption expenditures on cultural goods and services
+,culture and religion,2E0927,culture,583A52,Percentage of persons who attended a national or local festival in the last 12 months,0,percentage of persons who attended movies/cinema/film festivals in the last 12 months
+,culture and religion,2E0927,culture,583A52,Percentage of persons who participated in community celebrations of cultural/historic events,0,percentage of persons who participated in community celebrations of cultural/historic events
+,culture and religion,2E0927,culture,583A52,Percentage of persons who participated in community rites/events/ceremonies,0,percentage of persons who participated in community rites/events/ceremonies 
+,culture and religion,2E0927,religion,9B8997,Number of agro-related god in the region,1,
