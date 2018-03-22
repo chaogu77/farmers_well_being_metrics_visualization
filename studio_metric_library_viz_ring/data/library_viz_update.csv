@@ -1,0 +1,618 @@
+paper,scope,theme,dimension,dimension2,hexcode,markers,sub_Markers,hashtag
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,"Dietary diversity (number of food groups, or percent with low diversity scores)",Infant and Young Child Dietary Diversity Score,"nutrition, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,"Dietary diversity (number of food groups, or percent with low diversity scores)",Infant and Young Child Minimum Acceptable Diet,"nutrition, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,"Dietary diversity (number of food groups, or percent with low diversity scores)",Minimum Dietary Diversity for Women,"nutrition, woman"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,Share of public budget spent on nutrition and allied programs,,"nutrition, household_expenditure"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,Right to food,,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,"Prevalence of Undernourishment (PoU) (percent of population, or millions of people)",,"nutrition, demographic"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,"Depth of food deficit (kcal/capita/day, based on Prevalence of Undernourish-ment data)",,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,wellbeing,F7F7CB,Oral rehydration (percent of under 5 with diarrhea),,"nutrition, demographic, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F7F7CB,Drinking water: use of clean water sources (percent of households),,water_use
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F7F7CB,Open defecation: Use of toilets (percent of households),,water_use
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F7F7CB,"Birth timing (maternal age at first birth, months between births)",,"demographic, woman"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F7F7CB,Women of reproductive age short stature (percent low height),,"demographic, woman"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F194,Women of reproductive age thinness (percent low BMI),,"demographic, woman"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F195,"Anemia among women and children (percent of population), lodine deficiency (percent)",,"demographic, woman, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F196,Vitamin A deficiency and Supplementation Coverage (percent of pre-school age children),,"nutrition, children, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F197,"Breastfeeding: initiation, exclusivity and continuation (percent of children)",,"nutrition, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F198,lodized salt consumption (percent),,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F199,"Oral rehydration (percent of under 5 with diarrhea receiving ORS, percent of cases)",,"nutrition, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F200,"Adult and adolescent Body Mass Index (percent underweight, overweight or obese)",,"health,adult"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F201,"Child height and stunting: height-for-age (percent of children, or mean height)",,"nutrtion, children, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F202,Child weight and wasting: weight-for-height and MUAC (percent of children),,"nutrtion, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F203,Child underweight and: weight-for-age (percent of children),,"nutrtion, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F204,Child weight and overweight (percent of overweight),,"nutrtion, children"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F205,Low and very low birthweight (LBW and VLBW)(percent of births),,"nutrtion, children, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F206,Diarrhea (Incidence of food and waterborne diarrhea)(percent of children),,"nutrtion, children, health"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F207,Adult raised blood glucose (percent),,"health, adult"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,F6F208,Adult raised blood pressure (percent),,"health, adult"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Utilization,wellbeing,FCDD61,Adult raised cholesterol levels (percent),,"health, adult"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FCDD62,"Dietary diversity (number of food groups, or percent with low diversity scores)",Household Dietary Diversity Score,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FCDD63,"Dietary diversity (number of food groups, or percent with low diversity scores)",Food Consumption Score,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FCDD64,food price indexes (local food prices relative to other prices),,"household_expenditure, food_market"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FCDD65,Food affordability indexes (food prices relative to labor wages or income),,"household_expenditure, food_market"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FCDD66,Household food expenditure (shae of total spending),,"household_expenditure, food_market"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Stability,market,FCDD67,Volatility of food prices (standard deviations of prices over time),,"food_market, household_expenditure"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Stability,market,FCDD68,percapita food supply variability,,food_supply
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD69,"Dietary energy in the food supply (kcal/capita, or percent of requirements)",,"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD70,Dietary quality of the food supply (g/capita of specific foods or nutrients),Average supply of protein (grams/cap/day),"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD71,Dietary quality of the food supply (g/capita of specific foods or nutrients),Protein from animal sources (grams per capita per day),"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD72,Dietary quality of the food supply (g/capita of specific foods or nutrients),Share of calories from no-staples %,"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD73,"Dietary energy from household expenditure survey (HES)(kcal/day per adult equivalent, or percent of requirements)",,"nutrition, household_expenditure"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD74,"Dietary quality indexes (ratios, indexes or quantity/day of specific foods or nutrients)",Healthy Eating Index,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD75,"Dietary quality indexes (ratios, indexes or quantity/day of specific foods or nutrients)",Healthy Item Score,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD76,"Dietary quality indexes (ratios, indexes or quantity/day of specific foods or nutrients)",Unhealthy Item Score,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD77,Experienced-based Scales,Household Hunger Scale (HHS),nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD78,Experienced-based Scales,Household Food Insecurity Access Scale (HFIAS),nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD79,Experienced-based Scales,Food Insecurity Experience Scale (FIES),nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,market,FCDD80,"Nutrient adequacy (percent of requirements for specific nutrients), intake or density",,nutrition
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FBD037,Diversity of the food supply (index of functional attributes or food sources),,"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Access,market,FBD038,Diversity of foods available in local markets (number of distinct foods or good groups),,"nutrition, food_supply"
+Measuring Food and Nutritional Security,global,Food/Nutrition,Availability of Food,finance,F68B3A,Government Expenditure Share on Agriculture,,"government, public_investment"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",wellbeing,F68B3A,Farmer age/gender distribution,,demographic
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",wellbeing,F68B3A,Farmer education,,education
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",wellbeing,F68B3A,Number of farms,,demographic
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",wellbeing,F68B3A,Agricultural support,,"government, public_investment, social_service"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",wellbeing,F68B3A,Farm income,,"income, farm_management"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,wellbeing,F68B3A,Nutrient Management,Nutrient management plans,farm_management
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",market,F68B3A,Land use,stock of agricultural land,land
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",finance,F68B3A,Agri-environmental expenditure,public and private agri-environmental expenditure,public_investment
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",finance,F68B3A,Agri-environmental expenditure,expenditure on agri-environmental,public_investment
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",finance,F68B3A,Agricultural GDP,,economy
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",practice,F68B3A,Agriculture output,,farm_management
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",practice,F68B3A,Farm employment,,labor
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",practice,F15544,Land use,change in agriculture land,land
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,"Agriculture in the broader economic, social and environmental context",practice,F15545,Land use,agricultural land use,land
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15546,Whole farm management,Environmental whole farm management plans,"environment, farm_management"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15547,Whole farm management,Organic farming,farm_management
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15548,Nutrient Management,Soil tests,soil
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15549,Pest Management,Use of non-chemical pest control,"pest, environemt"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15550,Pest Management,Use of integrated pest management,pest
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15551,Soil and land management,Soil cover,soil
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F15552,Soil and land management,Land management practices,land
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Farm Management and the environment,practice,F8C7B09,Irrigation and water management,irragation technology,"farm_management, water_use"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B10,Nutrient Use,Nitrogen balance,"land, fertilizer"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B11,Nutrient Use,Nitrogen efficiency,"land, fertilizer"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B12,Pesticide Use and Risk,pesticide use,"pest, environment"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B13,Pesticide Use and Risk,pesticide risk,"pest, environment"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B14,Water Use,water use intensity,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B15,Water Use,water use technical efficiency,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F8C7B16,Water Use,water use economic efficiency,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Use of farm inputs and natural resources,practice,F58B78,Water Use,water stress,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B79,Soil quality,risk of soil erosion by water,"soil, climate"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B80,Soil quality,risk of soil erosion by wind,"soil, climate"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B81,water quality,water quality risk indicator,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B82,water quality,water quality state indicator,water_use
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B83,Land Conservation,water retaining capacity,"water_use, waste"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B84,Land Conservation,off-farm sediment flow (soil retaining capacity),"soil, waste"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B85,Greenhouse Gases,Gross agricultural greenhouse gas,environment
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B86,Biodiversity,Genetic diversity,"farm_management, crop"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B87,Biodiversity,Wild species,"farm_management, crop"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B88,Biodiversity,Non-native species,"farm_management, crop"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B89,Wildlife Habitats,intensively-farmed agricultural habitats,"farm_management, infrastructure"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B90,Wildlife Habitats,semi-natural agricultural habitats,"farm_management, infrastructure"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B91,Wildlife Habitats,Uncultivated natural habitats,"farm_management, infrastructure"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B92,Wildlife Habitats,Habitat matrix,"farm_management, infrastructure"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B93,Landscape,environmental features and land use patterns,"farm_management, land"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B94,Landscape,man-made objects (culture features),culture
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F58B95,Landscape,landscape management,"farm_management,land"
+Agriculture and Biodiversity Indicators,countries,Ag and Biodiversity,Environmental impacts of agriculture,environment,F8B6BE,Landscape,landscape costs and benefits,"farm_management,land"
+Agri products sustainable classification,countries,Sustainability,Political Spending,finance,F8B6BF,"Amount of political campaign spending, lobbying expenditures, and contributions to tax-exempt groups including trade associations",,"farm_management, investment"
+Agri products sustainable classification,countries,Sustainability,Political Spending,finance,F8B6C0,"Five largest political, lobbying, or tax-exempt group expenditures",,"farm_management, investment"
+Agri products sustainable classification,countries,Sustainability,Food safety,practice,F8B6C1,global food safety initiative audit conformance,major non-conformance rate and corrective action rate,farm_management
+Agri products sustainable classification,countries,Sustainability,Food safety,practice,F8B6C2,global food safety initiative audit conformance,minor non-conformance rate and associated corrective action rate,farm_management
+Agri products sustainable classification,countries,Sustainability,Food safety,practice,F8B6C3,"number of recall issued, total amount of food product recalled",,farm_management
+Agri products sustainable classification,countries,Sustainability,Fair Labor Practices & Workforce Health & Safety,practice,F8B6C4,Amount of production certified for fair labor practices,,"labor, farm_management"
+Agri products sustainable classification,countries,Sustainability,Fair Labor Practices & Workforce Health & Safety,practice,F8B6C5,"Total Recordable Injury Rate (TRIR), Fatality Rate and Near Miss Frequency Rate",full-time employees,labor
+Agri products sustainable classification,countries,Sustainability,Fair Labor Practices & Workforce Health & Safety,practice,F8B6C6,"Total Recordable Injury Rate (TRIR), Fatality Rate and Near Miss Frequency Rate",seasonal employees,labor
+Agri products sustainable classification,countries,Sustainability,Fair Labor Practices & Workforce Health & Safety,practice,F8B6C7,"Total Recordable Injury Rate (TRIR), Fatality Rate and Near Miss Frequency Rate",migrant employees,labor
+Agri products sustainable classification,countries,Sustainability,Fair Labor Practices & Workforce Health & Safety,practice,F8B6C8,"Desctiption of efforts to access, monitor, and reduce exposure of full-time and migrant/seasonal employees to pesticides",,"labor, farm_management"
+Agri products sustainable classification,countries,Sustainability,Water Withdrawal,practice,F389A4,"Total fresh water withdrawn, percentage recycled, percentage in regions with High or Extremely High Baselinw Water Stress",,environment
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,F389A5,Amount of fertilizer consumption,nitrogen-based,fertilizer
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,F389A6,Amount of fertilizer consumption,phosphate-based,fertilizer
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,E2267C,Amount of fertilizer consumption,postassium-based fertilizer,fertilizer
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,E2267C,"Number of incidents of non-compliance with water quality permits, standards, and regulations",,water_use
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,E2267C,Volume of wastewater generated,percent of resued,"water_use, waste"
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,E2267C,Volume of wastewater generated,percent of discharged to the environment,"water_use, waste"
+Agri products sustainable classification,countries,Sustainability,Land Use & Ecological Impacts,practice,E2267C,"amount of pesticide consumption,by hazard level",,"pest, environment"
+Agri products sustainable classification,countries,Sustainability,Greenhouse Gas Emission,environment,CC1F43,Gross global scope 1 emissions,,environment
+Agri products sustainable classification,countries,Sustainability,Greenhouse Gas Emission,environment,CC1F44,"Desctiption of long-term and short-term strategy or plan to manage Scope 1 emissions, including emissions reduction targets and an analysis of performance against those targets",,"farm_management, environment"
+Agri products sustainable classification,countries,Sustainability,Energy Management,environment,8C133A,"Total energy consumed, percentage grid electricity, percnetage renewable",,environment
+Agri products sustainable classification,countries,Sustainability,Climate Change Impacts on Crop Yields,environment,8C133A,"Amount of crop losses, percentage offset through financial mechanisms",,"farm_management, financial_service, crop"
+Agri products sustainable classification,countries,Sustainability,Climate Change Impacts on Crop Yields,environment,8C133A,Identification of priority crops and discussion of risks and/or opportunities presented by climate change,,"farm_management, climate, crop"
+Agri products sustainable classification,countries,Sustainability,Environmental & Social Impacts of Ingredient Supply Chains,environment,47334F,Percentage of agricultural raw materials sourced from regions with regions with High or Extremely High Baseline Water Stress,,"environment, crop"
+Agri products sustainable classification,countries,Sustainability,Environmental & Social Impacts of Ingredient Supply Chains,environment,47334F,Percentage of agricultural raw materials that are certified to a third-party environmental and/or social standard,,"environment, regulation"
+Agri products sustainable classification,countries,Sustainability,Environmental & Social Impacts of Ingredient Supply Chains,environment,733765,Description of management strategy for environmental and social risks arising from contract growers and commodity sourcing,,"farm_management, social"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Social,market,733765,stakeholders supporting,,"social, financial_service, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,market,733765,Product price stability,,"farm_management, product, food_market"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,market,733765,Marketing network,,"food_market, social"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,market,733765,Producer-Buyer Relationship,,"food_market, social"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,practice,733765,Farm income,,"farm_management, income"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,733765,Land preparation,,"land, farm management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,733765,Erosion Control,,"soil, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,A65B98,Nutrient and soil fertile management,,"soil, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,A65B99,the used of fertilizer,,"fertilizer, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,A65B100,intensity of land occupy,,"land, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,A65B101,cropping system,,"farm_management, crop"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,A65B102,weed control,,"crop, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Environment,practice,B3649E,pest & disease control,,"pest, farm_management"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Social,practice,B3649E,local community enggagement,,social
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Social,practice,B3649E,resources availability & acessibility,,"resource, social"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,practice,B3649E,Productivity or yield,,"farm_management, production"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,practice,B3649E,cost of production,,"farm_management, investment"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Economy,practice,B3649E,Product quality,,"farm_management, product"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Social,science,B3649E,supporting system accessibility,,"social, government"
+Farm Level Indicators in Indonesia ,country,Indonesia practice,Social,science,A674A9,resouce conservation knowledge,,"resource, knowledge, conservation"
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,A674A10,"Opportunities to increase skills and knowledge, to advance within the enterprise",,"farm_management, knowledge"
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,A674A11,"provide a culturally appropriate and nutritionally adequate diet and allows time for family, rest and culture",,"culture, nutrition"
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,A674A12,"Access to the means of production, including equipment, capital and knowledge",,knowledge
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,A674A13,Participation in decision making and social affairs,,social_participation
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,A674A14,Job satisfaction,,personal_well_being
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of life,wellbeing,8453A1,Housing size,,personal_well_being
+Ethics Based Approach to ag Indicators,country,Ethics,Self-reliance and Equity,wellbeing,8453A2,Off-farm income earner,,income
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,market,8453A3,Strengthen local market organizations and institutions,,"food_market, social"
+Ethics Based Approach to ag Indicators,country,Ethics,Resilience of farming systems,market,8453A4,"Collaboration with multiple suppliers, outlets, and fellow farmers; crops planted in polycultures that encourage symbiosis and mutualism",,"farm_management, food_market, crop"
+Ethics Based Approach to ag Indicators,country,Ethics,Resilience of farming systems,market,8453A5,Yield stability under varying conditions,,"farm_management, production"
+Ethics Based Approach to ag Indicators,country,Ethics,Self-reliance and Equity,market,C9B0CD,Less reliance on commodity markets and reduced external inputs; more sales to local markets,,"farm_management, food_market"
+Ethics Based Approach to ag Indicators,country,Ethics,Self-reliance and Equity,market,C9B0CD,Develop programs aimed at facilitate market access for small-holder and emerging farmers,,"social, farm_management"
+Ethics Based Approach to ag Indicators,country,Ethics,Self-reliance and Equity,market,C9B0CD,Procurement from local suppliers,,farm_management
+Ethics Based Approach to ag Indicators,country,Ethics,Food security,market,C9B0CD,Stability of food prices and supply,,"food_market, food_supply"
+Ethics Based Approach to ag Indicators,country,Ethics,Food security,market,C9B0CD,Reducing food losses and waste,,"environment, farm_management"
+Ethics Based Approach to ag Indicators,country,Ethics,Food security,market,C6D3EC,Availability to enough food from diverse sources to meet the consumption needs of a healthy and nutritious diets,,"nutrition, food_supply"
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,finance,C6D3EC,Access to government services and supports (education and extension),,"government, education"
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,finance,C6D3EC,Existence viable and sustainable rural financing schemes and bank services,,financial_service
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,finance,C6D3EC,Subsidies and financial assistance to promote sustainable behavior,,"government, financial_service"
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,finance,C6D3EC,Premium support to farmers to participate in crop insurance ,,"financial_service, crop"
+Ethics Based Approach to ag Indicators,country,Ethics,Supportive policies,finance,C6D3EC,Price premium for agricultural products,,"government, food_market"
+Ethics Based Approach to ag Indicators,country,Ethics,Soil health and quality,practice,B0D6F1,Moisture content (reduced runn off) of the soil,,soil
+Ethics Based Approach to ag Indicators,country,Ethics,Soil health and quality,practice,B0D6F2,Soil tilth/workability,,soil
+Ethics Based Approach to ag Indicators,country,Ethics,Soil health and quality,practice,B0D6F3,Soil nutrient balance,,soil
+Ethics Based Approach to ag Indicators,country,Ethics,Resilience of farming systems,practice,B0D6F4,Heterogeneity and multi-functionality of the agricultural systems,,"farm_management, production"
+Ethics Based Approach to ag Indicators,country,Ethics,Resilience of farming systems,practice,B0D6F5,Ability of the farming systems and the farmers to resist and recover from extreme environmental and climate change-related stresses and shocks,,"farm_management, environment, climate"
+Ethics Based Approach to ag Indicators,country,Ethics,Productivity,practice,3C9FD9,Net farm income,,"farm_management, income"
+Ethics Based Approach to ag Indicators,country,Ethics,Productivity,practice,3C9FD10,Harvested crop yields per hectare,,"farm_management, production, crop"
+Ethics Based Approach to ag Indicators,country,Ethics,Productivity,practice,3C9FD11,Low gap between actual and potential yields,,"farm_management, production"
+Ethics Based Approach to ag Indicators,country,Ethics,Productivity,practice,3C9FD12,Value of crop production per household,,"farm_management, production, crop"
+Ethics Based Approach to ag Indicators,country,Ethics,Productivity,practice,3C9FD13,No. of hectares (or hhs.) with improved practice,,"farm_management, knowledge"
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of products,practice,3A91CF,Meet the highest nutritional standards applicable to respective type of products,,product
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of products,practice,3A91CF,Product labeling,,product
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of products,practice,3A91CF,Certificated production,,"production, product"
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of products,practice,3A91CF,Percent of crop losses during storage,,farm_management
+Ethics Based Approach to ag Indicators,country,Ethics,Quality of products,practice,3F7ABE,Number of crop storage facilities built and used,,farm_management
+Ethics Based Approach to ag Indicators,country,Ethics,Self-reliance and Equity,practice,3F7ABE,Autonomy in relation to land and resource management,,farm_management
+Ethics Based Approach to ag Indicators,country,Ethics,Wise use of resources,practice,3F7ABE,Optimize recycling and use of biomass and africultural by products,,"input, environment, waste"
+Ethics Based Approach to ag Indicators,country,Ethics,Wise use of resources,practice,57559F,"Precise, integrated use of mineral fertilizers and abailable organic nutrient sources",,"fertilizer, environment"
+Ethics Based Approach to ag Indicators,country,Ethics,Wise use of resources,practice,57559F,Maximize the capture and efficient utilization of available water,,water_use
+Ethics Based Approach to ag Indicators,country,Ethics,Wise use of resources,practice,57559F,Integrated pest management,,pest
+Ethics Based Approach to ag Indicators,country,Ethics,Resilience of farming systems,environment,67569B,Ecologically self-regulated to preserve and improve the natural diversity and improve the natural diversity and improve the habitat function of agricultural landscapes,,"farm_management, product, environment, conservation"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Policy,practice,67569B,Soil Health,Existence of polices that promote agricultural soil conservation practices (Yes/No),"government, soil, farm_management, policy"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Policy,practice,67569B,Nutrients,Existence of policies promoting nutrient management practices (Yes/No),"government, farm_management, product, policy"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Policy,practice,504000,Pesticides,Actions to ban or restrict pesticides and toxic chemicals under the Stockholm Convention (25-point scale),"government, farm_management, pest, environment, regulation"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Practice,practice,504000,Soil Health,Share of arable land under soil conservation practices (percent),"land, farm_management"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Practice,practice,504000,Soil Health,Share of cropland under conservation agriculture (eg. Organic soil cover greater than 30 percent immediately after planting) (percent),"land, farm_management, conservation"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Practice,practice,504000,Nutrients,Share of agricultural land under nutrient management practices (percent),"land, farm_management, product"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Practice,practice,596480,Pesticides,Share of cropland under integrated pest management (percent),"land, farm_management, environment"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,596480,Soil Health,Share of agricultural land affected by soil erosion (percent),"land, soil"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,596480,Soil Health,Percent change in net primary productivity (NPP) across agricultural land (percent),"land, product"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,596480,Soil Health,Soil organic matter (carbon) content (tons of carbon per hectare),soil
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,596480,Nutrients,Nutrient input balances on agriculturla land (i.e. difference between nitrogen and phosphorus inputs and outputs) (kilograms of N and P per hectare of agricultural land ),"land, soil"
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,596480,Nutrients,Fertilizer applied per unit of arable land (tons of nutrients oer hectare of arable land),fertilizer
+WRI-Indicators of Sustainable Agriculture: a Scoping Analysis,global,sustainability,Performance,practice,377B99,Pesticides,Pesticide use per unit of cropland (tons of active ingredient applied per hectare),"pest, environment"
+world happiness report,global,UN happiness,social environment,wellbeing,E0F1ED,trust,measured by a perceived absence of corruption in government and business,social
+world happiness report,global,UN happiness,social environment,wellbeing,CDEAE6,perceived freedom to make life decisions,,social
+world happiness report,global,UN happiness,social environment,wellbeing,CDEAE7,generosity,measured by recent donations,social
+world happiness report,global,UN happiness,Health,wellbeing,CDEAE8,healthy years of life expectancy,,personal_well_being
+world happiness report,global,UN happiness,Economy,finance,CDEAE9,GDP per capita,,government
+world happiness report,global,UN happiness,social environment,finance,87CAD2,social support,measured by having someone to count on it times of trouble,social
+CDIS methodology,countries,UN culture,Gender,wellbeing,87CAD3,Gender equality outputs,"Index of the gaps between women and men in political, education and labor domains and in gender-equity legislative frameworks (objective outputs):","equality, social"
+CDIS methodology,countries,UN culture,Gender,wellbeing,87CAD4,Perception of gender equality (descriptive),when jobs are scarce: men should have more right to a job than women,"equality, social"
+CDIS methodology,countries,UN culture,Gender,wellbeing,87CAD5,Perception of gender equality (descriptive),Men make better political leaders than women do,"equality, social"
+CDIS methodology,countries,UN culture,Gender,wellbeing,87CAD6,Perception of gender equality (descriptive),university is more important for a boy than for a girl,"equality, social"
+CDIS methodology,countries,UN culture,Communication,wellbeing,87CAD7,Freedom of expression,"the overall ""press freddom score""",social
+CDIS methodology,countries,UN culture,Communication,wellbeing,5EB4CA,Freedom of expression,"the three scores of your country for the categories of legal, policical and economic environemnt",social
+CDIS methodology,countries,UN culture,Communication,wellbeing,5EB4CA,Access and Internet use,Percentage of individuals using the Internet,infrastructure
+CDIS methodology,countries,UN culture,Communication,wellbeing,5EB4CA,Diversity of media content (descriptive),total number of broadcasting hours dedicated to domestic fiction programmes on national public TV channels,media
+CDIS methodology,countries,UN culture,Communication,wellbeing,5EB4CA,Diversity of media content (descriptive),total number of broadcasting hours dedicated to co-produced fiction programmes on national public TV channels,media
+CDIS methodology,countries,UN culture,Communication,wellbeing,4A92B3,Diversity of media content (descriptive),total number of broadcasting hours dedicated to foreign fiction programmes on national public TV channels,media
+CDIS methodology,countries,UN culture,Education,wellbeing,4A92B4,Inclusive Education,"Index of average years of schooling of the population between the ages of 17 and 22, adjusted to reflect inequalities","education, equality"
+CDIS methodology,countries,UN culture,Education,wellbeing,4A92B5,Multilingual education (descriptive),Percentage of instructional hours dedicated to promoting multilingualism in relation to the total number of instructional hours dedicated to languages (grades 7-8),education
+CDIS methodology,countries,UN culture,Education,wellbeing,4A92B6,Arts education (desciptive),Percentage of instructional hours dedicated to arts education in relation to the total number of instructional hours (grades 7-8),"education, culture"
+CDIS methodology,countries,UN culture,Education,wellbeing,4A92B7,Professional training,"Index of coherency and coverage of technical and vocational education and training (TVET) and tertiary education in the field of culture, by survey","education, culture"
+CDIS methodology,countries,UN culture,Economy,finance,4A92B8,Contribution of cultural activities to GDP (descriptive),Calculate added value: GVA = GPV - IC,government
+CDIS methodology,countries,UN culture,Economy,finance,4A92B9,Contribution of cultural activities to GDP (descriptive),Calculate the ratio of cultural activities within national gross domestic product,"culture, government, public_investment"
+CDIS methodology,countries,UN culture,Economy,finance,4A92B10,cultural employment (descriptive),Number of persons engaged in cultural and creative employment,"culture, demographic"
+CDIS methodology,countries,UN culture,Economy,finance,4A92B11,cultural employment (descriptive),Ratio of persons with cultural occupations within total employed population,"culture, demographic"
+CDIS methodology,countries,UN culture,Economy,finance,355D69,Household expenditure on culture (descriptive),Calculation of household final consumption expenditures on cultural goods and services,"culture, household_expenditure"
+CDIS methodology,countries,UN culture,Economy,finance,355D70,Household expenditure on culture (descriptive),Calculation of household final consumption expenditures on cultural good and services set against total household final consumption expenditures,"culture, household_expenditure"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Standard-setting framework,"Index of development of the standard-setting framework for the protection and promtion of culture, cultural rights and cultural diversity, by data table","government, culture"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Policy and institutional framework,"Index of development of the policy and institutional framework for the protection and promotion of culture, cultural rights and cultural diversity, by checklist","government, policy, culture"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Infrastructures (descriptive),"the name of the administrative division considered (name of the province, department or region concerned)",government
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Infrastructures (descriptive),numerical values for cultural infrastructures,"government, culture, infrastructure"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Infrastructures (descriptive),the number of inhabitants,"government, infrastructure"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Infrastructures (descriptive),the percentage of the country's total population living in each of the country's administrative divisions relative to the country's total population,demographic
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Infrastructures (descriptive),"the percentage of museums, libraries and media resource centres and venues didicated to the performing arts present in each of the country's administrative divisions as a share of all the country's museums, libraries and media resource centres and venues dedicated to the performing arts","culture, infrastructure, government"
+CDIS methodology,countries,UN culture,Governance,culture,355D70,Civil society in governance,participation by organized representatives of minorities,"government, policy"
+CDIS methodology,countries,UN culture,Governance,culture,355D69,Civil society in governance,participation by organized representatives of culture sector professionals,"government, policy, expert"
+CDIS methodology,countries,UN culture,Social participation,culture,355D69,Going-out participation (descriptive),percentage of persons who attended movies/cinema/film festivals in the last 12 months,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,355D69,Going-out participation (descriptive),percentage of persons who went to the theatre or a dance show in the last 12 months,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,394000,Going-out participation (descriptive),percentage of persons who went to a concert or live musical performance in the last 12 months,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,394000,Going-out participation (descriptive),percentage of persons who visited a historical/cultural park or a heritage site,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,394000,Going-out participation (descriptive),"percentage of persons who visited a museum, an art gallery or a crafts exposition in the last 12 months","culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,394000,Identity-building participation (descriptive),percentage of persons who attended a national or local festival in the last 12 months,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Identity-building participation (descriptive),percentage of persons who participated in community celebrations of cultural/historic events,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Identity-building participation (descriptive),percentage of persons who participated in community rites/events/ceremonies ,"culture, social"
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Tolerance of other cultures,people of a different race,social
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Tolerance of other cultures,immigrants/foreign workers,"social, labor"
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Tolerance of other cultures,people of different religion,social
+CDIS methodology,countries,UN culture,Social participation,culture,A2D1B2,Interpersonal trust,"""generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people""",social
+CDIS methodology,countries,UN culture,Social participation,culture,7DBFA3,Sefl-determination,Median score of perceived freedom of self-determimation,social
+CDIS methodology,countries,UN culture,Heritage,culture,7DBFA3,Heritage sustainability,Registrations and inscriptions,heritage
+CDIS methodology,countries,UN culture,Heritage,culture,7DBFA3,Heritage sustainability,"protection, safeguarding and management: conservation and valorization
+, knowledge and capacity-building,community involvement","heritage, public_investment"
+CDIS methodology,countries,UN culture,Heritage,culture,6EB7BD,Heritage sustainability,"Transmission and mobilization of support:
+raising awareness and education, stimulating support","heritage, social, education, knowledge"
+HDI technical note,global,HDI,Long and healthy life,wellbeing,42A6AE,life expectancy at birth,,health
+HDI technical note,global,HDI,knowledge,wellbeing,42A6AE,mean years of schooling,,education
+HDI technical note,global,HDI,knowledge,wellbeing,5FAFAA,expected years of schooling,,education
+HDI technical note,global,HDI,a decent standard of living,wellbeing,44AFA9,GNI per capita,,personal_well_being
+Indicators for local food system - IATP,city,well being,family,wellbeing,44AFA9,"what do your family's meals look like? When you cook, who cooks ?
+",,"family, meal"
+Indicators for local food system - IATP,city,well being,family,wellbeing,44AFA9,"In your country, did you eat together",,"family, meal"
+Indicators for local food system - IATP,city,well being,family,wellbeing,44AFA9,How important is food to your conception of being well,,"personal_well_being, meal"
+Indicators for local food system - IATP,city,well being,family,wellbeing,44AFA9,what are your dreams for your children,,family
+Indicators for local food system - IATP,city,well being,family,wellbeing,5DBAA5,What does a typical lunch or dinner look like,,meal
+Indicators for local food system - IATP,city,well being,Community engagement,wellbeing,5DBAA5,Contributions to their community,,social_participation
+Indicators for local food system - IATP,city,well being,Community engagement,wellbeing,57B193,The ability to manage their own infrastructure and systems,,infrastructure
+Indicators for local food system - IATP,city,well being,Management,wellbeing,57B193,"Producing healthier food and that people understand the difference 
+between their products and conventional products",,product
+Indicators for local food system - IATP,city,well being,Management,wellbeing,57B193,Land ownership,,"land, property"
+Indicators for local food system - IATP,city,well being,Management,wellbeing,57B193,The ability to produce not only for the market also for themselves,,"farm_management, production, food_supply"
+Indicators for local food system - IATP,city,well being,Management,wellbeing,57B193,having a sufficient rate of return,,income
+Indicators for local food system - IATP,city,well being,Management,wellbeing,57B193,Resources for their children and greater time with their family,,family
+Indicators for local food system - IATP,city,well being,Management,wellbeing,356057,Adatability to climate change,,farm_management
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,wellbeing,356057,Capacity to learn and self-organize,number of people interacting with information sharing mechanisms,education
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,wellbeing,356057,Capacity to learn and self-organize,"number of people participating in rural development organisations, including informal groups",social_participation
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,wellbeing,356057,asset abundance,number of people able to participate in the workface,farm_management
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,wellbeing,356057,asset abundance,number of people with increased farm asset base,property
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,wellbeing,356057,asset diversity,number of people with new on-farm / off-farm income streams,income
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,market,356057,asset abundance,number of people accessing market services,food_market
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,market,356057,asset diversity,number of people with increased number of farm enterprises (non-financial),investment
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,finance,356057,Engagement and responsive governance,number of people participating in local planning exercises,farm_management
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,finance,4B7C71,Engagement and responsive governance,number of people with positive perceptions of government accountability and transparancy,government
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,finance,4B7C71,asset abundance,number of people accessing financial services,financial_service
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,practice,4B7C71,production efficiency,number of people with increased efficiency of water use / product unit,water_use
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,practice,4B7C71,production efficiency,number of people with increased efficiency of land/product unit,"farm_management, production"
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,practice,4B7C71,production efficiency,number of people with increased efficiency of nutrient/product unit,"farm_management, production"
+A Monitoring Instrument for Resillience,global,resilience,enhanced livelihoods and farm functioning,practice,4B7C71,production efficiency,number of people with increased efficiency of labor/product unit,"farm_management, labor, production"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,4B7C71,regulating services,number of people with access to higher value water regulation services,"farm_management, water_use, regulation"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,4B7C71,regulating services,number of people with access to higher value climate regulation services,"regulation, farm_management, climate"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,4B7C71,regulating services,number of people with access to higher value of pollination services,"farm_management, pollination"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,4B7C71,regulating services,number of people with access to higher value pest and predator control services,"farm_management, pest"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,698D8B,"supporting, provisioning and cultural services",number of people with access to higher value soil formation services,"farm_management, soil"
+A Monitoring Instrument for Resillience,global,resilience,ecosystem service that foster resilience,practice,698D8B,"supporting, provisioning and cultural services",number of people with access to higher value nutrient cycling services,"farm_management, waste"
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,science,698D8B,"awareness and knowledge of, and access to, locally relevant resilience-building approaches",number of people with increased awareness and knowledge of sustainable,knowledge
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,science,698D8B,"awareness and knowledge of, and access to, locally relevant resilience-building approaches",number of people who claim to have increased capacity to cope with risks,farm_management
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,science,698D8B,"awareness and knowledge of, and access to, locally relevant resilience-building approaches",number of people with improved hazard information,farm_management
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,science,698D8B,commitment of leadship,"number of people familiar with national, subnational or landscape-level visions, strategies or plans that address sustainability","knowledge, farm_management"
+A Monitoring Instrument for Resillience,global,resilience,increasing capacity of people to adapt,science,4B8F91,commitment of leadship,number of people in area covered by a sustainable management plan,farm_management
+Land Management from the Saskatchewan Prairie Region,global,land management,security,wellbeing,4B8F91,economic status,,income
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,wellbeing,4B8F91,personal & family health,,"family, health"
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,wellbeing,4B8F91,viability of farming,,social
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,wellbeing,4B8F91,off-arm impacts,,social_participation
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,wellbeing,4B8F91,age level of community,,demographic
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,market,4B8F91,government programs,,government
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,market,4B8F91,organic market demands,,"food_market, product"
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,finance,3A696F,availability of services,,"social, public_investment"
+Land Management from the Saskatchewan Prairie Region,global,land management,security,practice,3A696F,resource potential of land,,"resource, land"
+Land Management from the Saskatchewan Prairie Region,global,land management,security,practice,3A696F,soil moisture at seeding,,soil
+Land Management from the Saskatchewan Prairie Region,global,land management,protection,practice,3A696F,degradation risk,,"land, environment"
+Land Management from the Saskatchewan Prairie Region,global,land management,protection,practice,3A696F,extent of crop cover,,land
+Land Management from the Saskatchewan Prairie Region,global,land management,protection,practice,3A696F,degradation trends,,"land, environment"
+Land Management from the Saskatchewan Prairie Region,global,land management,protection,practice,E5EDB4,extent of fallow,,land
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,practice,E5EDB4,cash flow/revenues,,income
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,practice,E5EDB4,presence of livestock,,livestock
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,practice,E5EDB4,management objectives,,farm_management
+Land Management from the Saskatchewan Prairie Region,global,land management,viability,practice,A3CC89,extent of value added,,product
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,A3CC89,Soil fertility trends,,"farm_management, soil"
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,A3CC89,crop yield response,,"farm_management, production"
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,A3CC89,availability of labor,,labor
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,A3CC89,yield trends,,production
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,A3CC89,crop variety availability & performance,,"farm_management, product, crop"
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,69BA8B,length of rotation,,"farm_management, land"
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,practice,69BA8B,weed management,,"farm_management, crop"
+Land Management from the Saskatchewan Prairie Region,global,land management,security,environment,69BA8B,weather trends,,weather
+Land Management from the Saskatchewan Prairie Region,global,land management,security,environment,69BA8B,catastrophic weather / weather trends,,"climate, weather"
+Land Management from the Saskatchewan Prairie Region,global,land management,Productivity,science,69BA8B,adoption of new technologies & techniques,,"knowledge, farm_management"
+Land Management from the Saskatchewan Prairie Region,global,land management,security,science,69BA8B,time required in mastering new techniques,,knowledge
+Land Management from the Saskatchewan Prairie Region,global,land management,acceptability,science,8ECA9C,public awareness of organic farming,,"social, knowledge, product"
+Sustainability Assessment from South East Asia,city,sustainability,economic viability,wellbeing,8ECA9C,size of land holding,,"land, property"
+Sustainability Assessment from South East Asia,city,sustainability,social acceptability,wellbeing,5FA28A,land tenure,,"land, property"
+Sustainability Assessment from South East Asia,city,sustainability,economic viability,wellbeing,5FA28A,net farm income,,income
+Sustainability Assessment from South East Asia,city,sustainability,economic viability,wellbeing,FAF9D5,off farm income,,income
+Sustainability Assessment from South East Asia,city,sustainability,risk management and security,practice,FAF9D5,income from livestock,,"livestock, income"
+Sustainability Assessment from South East Asia,city,sustainability,conservation and protection,practice,FCE3BC,total soil eroded,,"land, soil"
+Sustainability Assessment from South East Asia,city,sustainability,conservation and protection,practice,FCE3BC,cropping intensity and extent of protection,,"product, conservation, crop"
+Sustainability Assessment from South East Asia,city,sustainability,economic viability,practice,FCE3BC,availability of farm labor,,labor
+Sustainability Assessment from South East Asia,city,sustainability,productivity,practice,FCE3BC,yield,,production
+Sustainability Assessment from South East Asia,city,sustainability,productivity,practice,F4C6A2,plant growth,,production
+Sustainability Assessment from South East Asia,city,sustainability,risk management and security,environment,F4C6A2,drought frequency,,"weather, climate"
+Sustainability Assessment from South East Asia,city,sustainability,social acceptability,science,AD7A6E,training in soil conservation,,"education, land"
+A Checklist for Assessing Sustainability,global,sustainability,,wellbeing,AD7A6E,are off-site costs and benefits adequately addressed ?,,income
+A Checklist for Assessing Sustainability,global,sustainability,,wellbeing,AD7A6E,are there opportunities for off-farm work in the region ?,,"social, social_service"
+A Checklist for Assessing Sustainability,global,sustainability,,finance,AD7A6E,do national policies adversely affect the flexibility of local farmers to chose options they consider best for their production system ?,,"policy, farm_management"
+A Checklist for Assessing Sustainability,global,sustainability,,finance,AD7A6E,are environmental and economic objectives fully integrated ?,,"environment, farm_management"
+A Checklist for Assessing Sustainability,global,sustainability,,finance,AD7A6E,are objectives of donor agencies in harmony with national policy objectives of developing countries ?,,"policy, social_service"
+A Checklist for Assessing Sustainability,global,sustainability,,practice,AD7A6E,are responsibilities for sustainable land and crop management being shared by all segments of society ?,,"social, farm_management"
+A Checklist for Assessing Sustainability,global,sustainability,,practice,AD7A6E,are political and institutional structures in place to support the evolution towards sustainable land and crop management ?,,"public_investment, farm_management"
+A Checklist for Assessing Sustainability,global,sustainability,,science,AD7A6E,are the technological options congruent (suitable) for the local soil and climate conditions ?,,"knowledge, climate, soil"
+A Checklist for Assessing Sustainability,global,sustainability,,science,C48677,will the technological innovations ensure improved economic return for the farmer? the region ?,,"income, knowledge"
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,the education level of the household members,,"education, demographic"
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,housing facilities,,infrastructure
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,work study,,social_service
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,nutrirional/health status of the family members,,"health, family"
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,improved decision making,,personal_well_being
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,improved the quality of rural life,,personal_well_being
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,woring and living conditions,,personal_well_being
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,C48677,participation/socail capital,,"social, social_environment"
+Measuring Agrcultural Sustainability (paper review),farm,,Social,wellbeing,B89989,social equity,,"social, equality"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,average of crop production,,"production, crop"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,expenses for input,,"resource, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,monetary income from outside the farm,,income
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,monetary income from the farm,,income
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,economic efficiency,,financial_service
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,profitability,,"income, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,the salaries paid to farm workers,,"labor, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,employment opportunities,,social_service
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,market availability,,food_market
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,B89989,land ownership,,"land, property"
+Measuring Agrcultural Sustainability (paper review),farm,,Economic,practice,C57B62,soil management,,"soil, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,improve water resource management,,"farm_management, water_use"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,"usage of pesticides, herbcides and fungicides",,"pest, environment"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,usage of animal/organic manures,,"farm_management, knowledge"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,usage of green manures,,"farm_management, knowledge"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,physical inputs and efficient use of input,,"resource, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,physical yield,,production
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,crop diversification,,"production, crop"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,use of alternative crop,,"production, crop"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,usage of fallow system,,"farm_management, seed"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,crop rotation,,"farm_management, rop"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,cropping pattern,,"farm_management, crop"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,trend of change in climatic conditions,,climate
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,usage of chemical fertilizer,,"fertilizer, environment"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,conservational tillage (no / minimum tillage),,"conservation, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,control erosion,,"conservation, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,microbial biomass with in the soil,,soil
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,cover crop / Mulch,,crop
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,protein level of crops,,"product, crop"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,practice,C57B62,integrated pest management,,"pest, environment, farm_management"
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,environment,C57B62,energy,,energy
+Measuring Agrcultural Sustainability (paper review),farm,,Ecological,environment,A35234,depth of groundwater table,,environment
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Social,market,A35234,food self sufficiency,,food_supply
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Social,market,A35234,equality in income and food distribution,,"equality, income, food_supply"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Social,finance,A35234,access to resources and support services,,"financial_service, social_service"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Economic,practice,6E3D2C,crop productivity,,"production,crop"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Economic,practice,6E3D2C,net farm income,,income
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Economic,practice,6E3D2C,benefit-cost ratio of production,,"income, farm_management"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Economic,practice,6E3D2C,per capita food grain production,,"farm_management, production"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,amount of fertilizers / pesticides used per unit of cropped land,,fertilizer
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,amount of irrigation water used per unit of cropped land,,water_use
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,soil nutrient content,,soil
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,depth of groundwater table,,environment
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,quality of groundwater for irrigation,,"environment, water_use"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,water use efficiency,,water_use
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Ecological,practice,8C5345,Nitrate content of groundwater and crops,,"environment, resource, crop"
+Operational Indicators for Measuring Agricultural Sustainability in Developing Countries,countries,,Social,science,A94726,farmers' knowledge and awareness of resource conservation,,"conservation, knowledge"
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,wellbeing,A94726,Personal Consumption Expenditures,,household_expenditure
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,wellbeing,A94726,Income Inequality,,"income, equality"
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,wellbeing,A94726,Adjusted Personal Consumption,,household_expenditure
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,wellbeing,A94726,Cost of Underemployment,,labor
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,A94726,value of housework,,family
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,A94726,cost of family changes,,family
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,5D3A21,cost of crime,,"social, social_environment"
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,5D3A21,value of volunteer work,,social_participation
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,5D3A21,cost of lost leisure time,,personal_well_being
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,5D3A21,value of higher education,,education
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,wellbeing,5D3A21,cost of motor vehicle crashes,,infrastructure
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,market,5D3A21,Service of Consumer Durables,,social_service
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,market,5D3A21,Cost of Consumer Durables,,household_expenditure
+the Online Home of Maryland's Genuine Progress Indicator,state,,Economic,finance,5D3A21,Net Captial Investment,,public_investment
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,practice,5D3A21,services of highways & streets,,infrastructure
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,practice,68481F,cost of commuting,,infrastructure
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of water pollution,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of air pollution,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of noise pollution,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of net wetlands change,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of net farmland change,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of net forest cover change,,environment
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of climate change,,climate
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of ozone depletion,,climate
+the Online Home of Maryland's Genuine Progress Indicator,state,,Environmental,environment,68481F,cost of non-renewable energy resource depletion,,"environment, energy"
+the Online Home of Maryland's Genuine Progress Indicator,state,,social,environment,876443,cost of personal pollution abatement,,"social, environment"
+Bhutan GNH,country,,Good governance,wellbeing,876443,political participation,election,social_participaion
+Bhutan GNH,country,,Good governance,wellbeing,876443,political participation,Zomdue participation,social_participaion
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Donation (time & money),amount of donation made in a year,social_participaion
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Donation (time & money),number of days volunteered in a year,social_participation
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Community relationship,Sence of belongingness in the community,social_environment
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Community relationship,Trust in neighbours,social_environment
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Family members care about each other,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Wish you were not part of your family,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Feel like a stranger in your family,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Enough time to spend with your family,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Lot of understanding in your family,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Family,Family is a real source of comfort to you,family
+Bhutan GNH,country,,Community vitality,wellbeing,876443,Safety,Victim of crime,social_environment
+Bhutan GNH,country,,Psychological well being,wellbeing,876443,life satisfaction,satisfaction with health,"health, personal_well_being"
+Bhutan GNH,country,,Psychological well being,wellbeing,876443,life satisfaction,satisfaction with standard of living,personal_well_being
+Bhutan GNH,country,,Psychological well being,wellbeing,876443,life satisfaction,satisfaction with occupation,personal_well_being
+Bhutan GNH,country,,Psychological well being,wellbeing,876443,life satisfaction,satisfaction with family relationship,"family, personal_well_being"
+Bhutan GNH,country,,Psychological well being,wellbeing,876443,life satisfaction,satisfaction with work life balance,personal_well_being
+Bhutan GNH,country,,Psychological well being,wellbeing,674345,spirituality,spirituality level,religion
+Bhutan GNH,country,,Psychological well being,wellbeing,674345,spirituality,taking account of Karma in daily life,religion
+Bhutan GNH,country,,Psychological well being,wellbeing,674345,spirituality,prayer recitation,religion
+Bhutan GNH,country,,Psychological well being,wellbeing,674345,spirituality,Meditation,religion
+Bhutan GNH,country,,Psychological well being,wellbeing,674345,Positive emotion,Frequency of feelings of calmness,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Positive emotion,Frequency of feelings of compassion,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Positive emotion,Frequency of feelings of forgiveness,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Positive emotion,Frequency of feelings of contentment,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Positive emotion,Frequency of feelings of generosity,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Negative emotion,Frequency of feelings of selfishness,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Negative emotion,Frequency of feelings of jealousy,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Negative emotion,Frequency of feelings of fear,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Negative emotion,Frequency of feelings of worry,emotion
+Bhutan GNH,country,,Psychological well being,wellbeing,6B5C7B,Negative emotion,Frequency of feelings of anger,emotion
+Bhutan GNH,country,,Health,wellbeing,6B5C7B,self reported health status,,health
+Bhutan GNH,country,,Health,wellbeing,6B5C7B,Healthy days,,health
+Bhutan GNH,country,,Health,wellbeing,7E4965,Disability,long term disability,health
+Bhutan GNH,country,,Health,wellbeing,7E4965,Disability,activity limitations,health
+Bhutan GNH,country,,Health,wellbeing,7E4965,mental health,,health
+Bhutan GNH,country,,Education,wellbeing,7E4965,Literacy,Literacy level,education
+Bhutan GNH,country,,Education,wellbeing,7E4965,Schooling,formal education level,education
+Bhutan GNH,country,,Education,wellbeing,894250,Value,Killing justifiable,social
+Bhutan GNH,country,,Education,wellbeing,894250,Value,Stealing justifiable,social
+Bhutan GNH,country,,Education,wellbeing,894250,Value,Creating disharmony in human relations justifiable,social
+Bhutan GNH,country,,Education,wellbeing,894250,Value,Sexual misconduct,social
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,Freedom of speech and opinion,social_envrionment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,to vote,social_envrionment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,to join political party of your choice,social_envrionment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,to form tshogpa,social_envrionment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,equal access and opportunity to join public service,social_envrionment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,to equal pay for work of equal value,equality
+Bhutan GNH,country,,Good governance,wellbeing,894250,Fundamental rights,free from disciminiation,social_environment
+Bhutan GNH,country,,Good governance,wellbeing,894250,Services,access to health care center,social_service
+Bhutan GNH,country,,Good governance,finance,894250,Government performance,creating jobs,"government, social_service"
+Bhutan GNH,country,,Good governance,finance,894250,Government performance,reducing gap between rich and poor,government
+Bhutan GNH,country,,Good governance,finance,894250,Government performance,fighting corruption,government
+Bhutan GNH,country,,Good governance,finance,894250,Government performance,Providing educational needs,"government, education"
+Bhutan GNH,country,,Good governance,finance,894250,Government performance,Improving health services,"government, social_service"
+Bhutan GNH,country,,Good governance,environment,894250,Government performance,protecting environment,"government, conservation, environment"
+Bhutan GNH,country,,Good governance,environment,894250,Services,electricity,infrastructure
+Bhutan GNH,country,,Good governance,environment,894250,Services,method of waste disposal,"water_use, environment"
+Bhutan GNH,country,,Good governance,environment,894250,Services,source of water,water_use
+Bhutan GNH,country,,Good governance,environment,664B6A,Services,quality of water,water_use
+Bhutan GNH,country,,Education,science,664B6A,Knowledge,knowledge on local legend and folk stories,knowledge
+Bhutan GNH,country,,Education,science,664B6A,Knowledge,knowledge on local tshechu,knowledge
+Bhutan GNH,country,,Education,science,664B6A,Knowledge,knowledge on traditional songs,knowledge
+Bhutan GNH,country,,Education,science,664B6A,Knowledge,knowledge on constitution,knowledge
+Bhutan GNH,country,,Education,science,664B6A,Knowledge,knowledge on HIV/AIDS transmission,knowledge
+Bhutan GNH,country,,Cultural diversity and resilience,culture,664B6A,speak native language,ability to speak mother tongue,knowledge
+Bhutan GNH,country,,Cultural diversity and resilience,culture,664B6A,cultural participation,number of days participate cultural activities,social
+Bhutan GNH,country,,Cultural diversity and resilience,culture,664B6A,zong chusum skills (artisan skills),,knowledge
+Bhutan GNH,country,,Cultural diversity and resilience,culture,664B6A,Driglam Namzha (code of etique),attitude,culture
+Bhutan GNH,country,,Cultural diversity and resilience,culture,664B6A,Driglam Namzha (code of etique),change over time,culture
+Bhutan GNH,country,,Good governance,culture,9E90AA,Government performance,preserving culture and traditions,"government, conservation, culture"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,prevalence(percentage) of underweight children under five years of age in rural areas,anthropometric data,"health, children"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,percentage of population who consider themselves better off now than 12 months ago,data from specific household survey,personal_well_being
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,rural poor as a proportion of the total poor population,household income estimates,income
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,rural poor as a proportion of the total poor population,household consumption estimate,household_expenditure
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,percentage change in proportion of rural population below US$1 (purchasing power parity) per day or below national poverty line,income or consumption data,"income, household_expenditure"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,proportion of under-nourished population,household budget surveys,"health, demographic"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,annual growth rate of household income in rural areas from agricultural acticity (percentage),household income by source and groups of activities,income
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,annual growth rate (perventage) of household income in rural areas from non-agricultural activity,household income by source and groups of activities,income
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",wellbeing,9E90AA,annual growth (or percentage change) in rural household income from forest-related activities,composition of rural household incomes,household_expenditure
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,wellbeing,9E90AA,percentage of farmers who are members of community/producer organizations,total number of farmers; number of farmers who are members of community/ producer organizations,social_participation
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,wellbeing,9E90AA,change (percentage) in land access for women and minority groups,percentage of land owned or under owner-like possession by different groups including women and minority groups,"land, property, equality"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,wellbeing,9E90AA,percentage of rural labor force employed in non-farm activities,"activity status of rural household members, time worked in each activity","social_participation, income, labor"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,policies and institutions,wellbeing,9E90AA,ratio of average income of the richest quintile to the poorest quintile(%) in rural areas,average income per quintile in rural areas,income
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,market,9E90AA,annual growth (percentage) in agricultural value added,values of inputs and outputs of agricultural commodities,food_market
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,market,9E90AA,consumer price index for food items,consumer price index disaggregated by categories,food_market
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,market,9E90AA,producer price index for food items,prices received by domestic producers of food items,food_market
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,market,9E90AA,change(percentage) in unit cost of transportation of agricultural products,cost and volume of agricultural products transported by mode of transport and region,food_supply
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,market,9E90AA,annual growth (percentage) in value added in the livestock sector,values of input used in livestock sector and output produced,"livestock, resource"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,market,9E90AA,percentage change in livestock values,livestock number and unit prices of livestock by species and breed,livestock
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,market,9E90AA,share of small-scale fishers in the production of fish,"average fish price, number of small-scale fishers or aquaculture producers, days fo fishing,average weight per day of fishing","aquaculture, food_market"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",market,9E90AA,value of removals  of wood and no-wood forest products (selected currency),"authorizations and licenses granted, statisitics on removals, trade statistics","production, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",market,9E90AA,growing stock per hectare of forest,"area of forest, growing stock (volume)","land, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,9E90AA,"indicators of access, use and satisfaction with respect to agribusiness and market services",percentage of farmers aware of market price and information services,"food_market, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,9E90AA,"indicators of access, use and satisfaction with respect to agribusiness and market services",percentage of farmers using market price and information services,"food_market, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,9E90AA,"indicators of access, use and satisfaction with respect to agribusiness and market services",percentage of farmers who are satisfied with agri-business and market services,"food_market, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,9E90AA,percentage change in number and value of activities managed by agro-enterprises,"number and value of transcations managed by agro-enterprises, by type of business","food_market, agri_business"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,proportion (percentage) of agro-enterprises adopting improved/ certified hygiene/food management system,number of agro-enterprises by type of business,agri_business
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,proportion (percentage) of agro-enterprises adopting improved/ certified hygiene/food management system,number of agro-enterprises certified as following specified phytosanitory measures and food quality standards,"agri_business, product"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,change (percentage) in sales/ turnovers of agro-enterprises,"benchmarks and subsequent data on enterprises covering sales, cost structure, and gross and net profits","income, agri_business, investment"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,percentage change in number of agricultural inputs outlets,number of retail dealers for each type of inputs,"crop, resource, agri_business"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,percentage increase in private sector investments in agriculture,private capital formation in agriculture and non-agriculture sector in rural areas,"investment, agri_business"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"agri-business (agricultural marketing, trade and agro-industry)",market,919CB8,percentage increase in market share of cooperatives/ agribusiness enterprises,"time series of value of transcations of cooperative/ agribusiness enterprises, by product or group of products","agri_business, food_market, product"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,market,919CB8,proportion of community/ producer organizations capable of meeting the production and marketing needs of their members,"total number of community/ producer organizations; number of which were rated by their members as meeting their needs, by type of membership",social_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,market,615D6E,percentage of community organizations (POs)/NGOs with functional internal system of checks and balances,total number of community organizations; number of which meet the pre-estabilished standards,social_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,market,615D6E,percentage increase in number of local enterprises in rural area,"series of total number of local enterprises, by region",agri_business
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,market,615D6E,percentage change in number of formal land transactions (quarterly or yearly basis),series of quarterly/yearly formal land transactions; estimate of total number of land transactions,"land, policy"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,finance,615D6E,public spending on agriculture as a percentage of GDP from the agriculture sector,"government budget allocation, disbursements and spending on items related to agriculture",public_investment
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,finance,615D6E,public spending on agriculture as a percentage of GDP from the agriculture sector,national agriculture value-added data,product
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,finance,615D6E,public spending on agricultural input subsidies as a percentage of total public spending on agriculture,"government budget allocation, disbursements and spending on items related to subsidies on agricultural input as well as total spending on agriculture","policy, public_investment"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,finance,615D6E,agricultural exports as a percentage of total value added in agriculture sector,trade statistics,"public_investment, food_market"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,finance,744F6E,agricultural exports as a percentage of total value added in agriculture sector,national accounts statistics,"public_investment, food_market"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,finance,744F6E,"indicators of access, use and satisfaction with respect to livestock service",percentage of livestock owners satisfied with the quality of livestock services,"social_service, livestock"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,finance,744F6E,"indicators of access, use and satisfaction with respect to fisheries/aquaculture services",percentage of fishing communities in contact with a fisheries officer in the last month,"social_service, aquaculture"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,finance,744F6E,"indicators of access, use and satisfaction with respect to fisheries/aquaculture services",percentage of fishers satisfied with the quality of fisheries services,"social_service, aquaculture"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,finance,744F6E,fishing quota (percentage of total permitted catch) earmarked for local fishing communities as rights,"quantity of catch permitted, by species, season and fishing community, according to local practices and regulations","aquaculture, production"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",finance,744F6E,value of services from forests (selected currency),"value of carbon sequestration, tourism, water supply, etc","forestry, income"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,744F6E,"indicators of access, use, satisfaction with respect to rural finance services",percentage of the rural population eligible to obtain a bussiness loan,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,744F6E,"indicators of access, use, satisfaction with respect to rural finance services",percentage of users who are satisfied with the banking services,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,8B577F,percentage of the rural population using financial services of formal banking institutions,total number of rural households; number of which requested/accessed credit and/or savings from formal banking institutions,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,8B577F,percentage of bank branches that are located in rural areas,spatial distribution of bank branches,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,8B577F,percentage of total savings that are mobilized from rural areas,mobilization of savings from different areas,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,8B577F,percentage of rural population using non-bank financial services,total number of rural households; number of which requested/accessed non-banking financial services,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,rural micro and SME finance,finance,8B577F,recovery rate of rural credit,volume of loans by type of credit and rate of recovery in a specific period,financial_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,finance,8B577F,percentage change in number of community associations exercising voting power in local government budget,time series of total number of community associations; number of which exercised voting power in local budget allocation,public_investment
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,8B577F,food production index,"area, production and yield data for major crops","crop, land"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,8B577F,food production index,livestock numbers and yields,"production, livestock"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,8B577F,food production index,fishery production,"product, production"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,8B577F,percentage of the population with access to safe/improved drinking water,number of household which are connected to water pipelines,infrastructure
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,8B577F,percentage of the population with access to safe/improved drinking water,number of household which have access to public water facilities,infrastructure
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,A95C7F,percentage of the population with access to safe/improved drinking water,"number of household which have protected wells,spring or rainwater",infrastructure
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,A95C7F,ratio (or propotion) of arable land area to total land area of the country,land use data,land
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,A95C7F,percentage of rural labor force employed in agriculture,"total number of days/persons (rural household members) worked in agriculture, by typ of work (padi/unpaid; permanent/occasional) during a specified period",labor
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,a sector-wide indicators for agriculture and rural development,practice,A95C7F,percentage of labor force underemployed or unemployed,"economically active population, employment and unemployment data on hours/days of work",labor
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),practice,A95C7F,change(percentage) in yields of major crops of the country,a time series of crop yields per unit of land area for major crops,crop
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),practice,A95C7F,percentage of total land area under permanent crops,land use data,land
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,practice,A95C7F,"indicators of access, use and satisfaction with respect to livestock service",percentage of livestock owners in contact with livestock officer in the last month,"social_service, livestock"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,practice,8A7490,"indicators of access, use and satisfaction with respect to livestock service",percentage of livestock owners using veterinary service within last month,"social_service, livestock"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,practice,8A7490,livestock birth rate,number of births during the last year and number of female animals of reproductive age for each species,livestock
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,livestock,practice,8A7490,percentage increase in yield per livestock unit,"per animal yield of milk, eggs, meet, wool, etc. separately for each species","livestock, production"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,practice,8A7490,"indicators of access, use and satisfaction with respect to fisheries/aquaculture services",percentage of rural communities that constructed a fish pond in the last year,"aquaculture, infrastructure"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,practice,8A7490,water use per unit of aquaculture production,"production from aquaculture, water used in aquaculture production , number of aquaculture units and their water holding capacity","aquaculture, production, water_use"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,practice,8A7490,annual change(percentage) in production from aquaculture farms,quantity and average unit price of different products from aquaculture,"aquaculture, production, food_market"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",practice,A487AD,"indicators of access, use and satisfaction with respect to the forestry services",percentage of communities aware of the activities of forestry services in their area,"social_service, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",practice,A487AD,"indicators of access, use and satisfaction with respect to the forestry services",percentage of communities involved in sustainable forest management,"social_participation, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",practice,A487AD,"indicators of access, use and satisfaction with respect to the forestry services",percentage of communities planning to expand area under sustainable forest management,"land, forestry, conservation"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",practice,A487AD,employment in forestry-related activities (full-time equivalents),data on paid employment and self-employment,"labor, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,"indicators of access, use, satisfaction with respect to  irrigation and drainage service",percentage change in the proportion of farmers with access to a functioning (reliable and adequate) irrigation and drainage network,"water_use, knowledge"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,"indicators of access, use, satisfaction with respect to  irrigation and drainage service",percentage change in the number of users,"water_use, knowledge"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,irrigated land as percentage of crop land,"total crop land area, irrigated crop land area",water_use
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,percentage of users who report a significant increase in crop yield as a result of the provision of irrigation and drainage services,crop yield data for irrigated crops; crop yield data for the same crops cultivated in similar conditions without irrigation,water_use
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,service fees collected as a percentage to total cost of sustainable Water User Association (WUA) activities and functions ,total WUA budget; part of which came from collected fees,water_use
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,percentage change in average downstream water flows during dry season,monthly average downstream water flows,resource
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,percentage change in agricultural value added created by irrigated agriculture,"area benefiting from a project, area under major crops of the command area of the project",social_service
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,A487AD,percentage change in agricultural value added created by irrigated agriculture,yield of crops before and after availabiltiy of irrigation,"production, water_use"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,C2A2CD,percentage change in agricultural value added created by irrigated agriculture,prices of the crops sown in the command area,"food_market, crop"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,C2A2CD,percentage of irrigation schemes that are financially self-sufficient,"list of irrigation schemes, their running costs and revenue collected","infrastructure, water_use"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,C2A2CD,percentage increase in cropping intensity,area equipped for irrigation data,"land, water_use"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,irragation and drainage (service related to water use in agriculture),practice,C2A2CD,percentage increase in cropping intensity,crop yields in irrigated area,"production, water_use"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,withdrawal of water for agricultural as a percentage of total freshwater withdrawal,area equipped for irrigation,"water_use, land"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,withdrawal of water for agricultural as a percentage of total freshwater withdrawal,area under different coprs under irrigated and rain fed conditions,"water_use, crop"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,withdrawal of water for agricultural as a percentage of total freshwater withdrawal,irrigation intensity and water requirement ratios of different coprs,"water_use, crop"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,withdrawal of water for agricultural as a percentage of total freshwater withdrawal,number of irrigation actually provided by farmers in season (on an average in an area),water_use
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,withdrawal of water for agricultural as a percentage of total freshwater withdrawal,estimates for per capita water consumption by humans and animal,water_use
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,practice,C2A2CD,change (percentage) in soil loss from watersheds,area that has become uncultivable or has witnessed sustantially reduced yields due to soil erosion and total area of watershed,"land, production, soil"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,practice,CAA1A9,percentage of land area inventoried,total land area and total registered land area,land
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,practice,CAA1A9,percentage of land area for which there is a legally recognized form of land tenure,total land area and area over which holders have a well-defined right to access and use,"land, policy"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,practice,CAA1A9,share (percentage) of land over which there are disputes,thtao area under dispute on a precise reference date; total land area at that date,"land, dispute"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,land policy and administration,practice,CAA1A9,percentage of agricultural households that have legally recognized rights to land,information on land tenure,"land, policy"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",environment,CAA1A9,area of forest under sustainable forest management (hectares),"area with forest certification, area with forest management plan. local (documented) knowledge, time series if available","knowledge, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",environment,CAA1A9,proportion (percentage) of land area covered by forest,"area of forest, land area","land, forestry"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,"forestry (developing, caring for or cultivating forests; management of timber production)",environment,B17D90,rate of deforestation,"information on area under forest cover, area reforested (additions to forest stock) and deforestation (deletion from forest stock) during the year","land, forestry, conservation"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,environment,B17D90,change (percentage) of farm I and under risk of flood/drought,time series of information on drought/flood-prone areas of farm land and total farm land area,"land, climate"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),science,B17D90,"indicators of access, use and satisfaction with respect to service related to sustainable crop production practice, technologies and inputs",percentage of farmers who applied /purchased the recommended package of inputs last season,"knowledge, farm_management, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),science,B17D90,"indicators of access, use and satisfaction with respect to service related to sustainable crop production practice, technologies and inputs",percentage of farmers who adopted sustainable crop practices in their farms,"knowledge, farm_management"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),science,B17D90,change(percentage) in yields of major crops of the country,crops covered by a specific programme,"crop, farm_management"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),science,B17D90,yield gap between farmers' yields and on-station yields for major crops of the country,yield expected to be achieved at farmers'field with recommended package of inputs and actual yield as estimated through the agricultural statistics system,"crop, production"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,fisheries and aquaculture,science,B17D90,capture fish production as a percentage of fish stock (or a rating of the state of major capture fish stocks relevant to exports and local food),scientific estimates of fish stocks and exploitation rates or perceptions/assessment of community of fishers on increasing or decreasing fish stock,"aquaculture, food_market"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,B17D90,"indicators of access, use satisfaction with research and extension advice",percentage of farmers having knowledge of a specific technology being disseminated by extension system,"knowledge,education, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,724E5C,"indicators of access, use satisfaction with research and extension advice",percentage of farmers trying the specific technology advice from extension systems on their farms,"knowledge, farm_management"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,724E5C,"indicators of access, use satisfaction with research and extension advice","percentage of farmers who were satisfied with the specific technological recommendations of the extension system and judged it beneficial, with or withour adaptation",knowledge
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,724E5C,public investment in agricultural research as a percentage of GDP from the agriculture sector,"budget allocations to agriculture research institutions, GDP for agriculture",public_investment
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,724E5C,"percentage change in yields resulting from improved practices, for major crops of the country",crop yield data for major crops,"production, crop"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,acrucultural research and extension,science,724E5C,change in farmer income as a result of new technologies (by gender),"yeild before and after introduction of new technology, price of outputs, distribution of agricultural land, area dedicated to new technology","production, land, knowledge"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,community-based rural development,science,724E5C,"indicators of access, use, satisfaction with respect to services provided by community-based rural development of organizations",percentage of members of community/ producer associations reporting increased production or profits as a result of membership,"production, social_service"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,natural resource management,science,4D4459,proportion (percentage) of land area formally established as protected area,information on land area of formally protected areas; total land area of the country or project area,"land, conservation"
+Tracking Results in Agriculture and Rural Development in Less Than Ideal Conditions,global,,crops(inputs and services related to annual and perennial crop production),science,,"indicators of access, use and satisfaction with respect to service related to sustainable crop production practice, technologies and inputs",percentage of small-scale farmers who know about sustainable crop production practices,"knowledge, farm_management"
